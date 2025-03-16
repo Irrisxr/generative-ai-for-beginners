@@ -4,7 +4,7 @@
 
 Чтобы активировать dev-контейнер, запустите его в [GitHub Codespaces](https://docs.github.com/en/codespaces/overview?WT.mc_id=academic-105485-koreyst) (для облачной среды исполнения) или в [Docker Desktop](https://docs.docker.com/desktop/?WT.mc_id=academic-105485-koreyst) (для локальной среды исполнения, размещенной на устройстве). Прочитайте [эту документацию](https://code.visualstudio.com/docs/devcontainers/containers?WT.mc_id=academic-105485-koreyst) для получения более подробной информации о работе dev-контейнеров в VS Code.  
 
-> [!СОВЕТ]  
+> [!TIP] 
 > Мы рекомендуем использовать GitHub Codespaces для быстрого старта с минимальными усилиями. Он предоставляет щедрую [квоту бесплатного использования](https://docs.github.com/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts?WT.mc_id=academic-105485-koreyst) для личных аккаунтов. Настройте [таймауты](https://docs.github.com/codespaces/setting-your-user-preferences/setting-your-timeout-period-for-github-codespaces?WT.mc_id=academic-105485-koreyst) для остановки или удаления неактивных кодовых пространств, чтобы максимально использовать квоту.
 
 
